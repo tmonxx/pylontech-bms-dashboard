@@ -1,4 +1,4 @@
-# pylontech-bms-dashboard
+# Pylontech BMS Dashboard
 Live HTML Dashboard für 6x Pylontech US-Serie Akkus über RS485-zu-IP Konverter
 
 # Pylontech BMS 6-Pack Live Dashboard
