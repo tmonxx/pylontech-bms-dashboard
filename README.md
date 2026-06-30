@@ -15,7 +15,13 @@ Ein schlankes, performantes Python-Skript, das die Zelldaten von bis zu 6 parall
 
 ## Voraussetzungen
 - Ein RS485-zu-IP Konverter (z. B. USR-TCP232-304), der an den Konsolen-Port des Master-Pylontech-Akkus angeschlossen ist.
+PL2303GT USB RS232 Seriell auf RJ45 8P8C Kommunikationskabel für MPP Solar Inverter PC-Kommunikation.
+
+<img width="588" height="550" alt="Bildschirmfoto 2026-06-30 um 16 57 19" src="https://github.com/user-attachments/assets/46b65b00-d5fe-4d02-bd26-9cb2b185df47" />
+
 - Python 3.x installiert auf einem dauerhaft laufenden Gerät (z. B. Raspberry Pi, Mini-PC, o.ä.).
+
+
 
 ## Installation & Start
 1. Kopiere die Datei `dashboard.py` auf dein Gerät.
