@@ -51,7 +51,7 @@ Eine wichtige Sache vorweg: Ich bin kein gelernter Software-Entwickler und habe 
 
 Ich bin ein stolzer **Vibe-Coder**! 😎
 
-Ich hatte die Vision für das perfekte, übersichtliche Pylontech-Dashboard, die Hardware im Keller und eine KI als unermüdlichen Co-Piloten an meiner Seite. Gemeinsam haben wir geschwitzt, geflucht und dieses Tool gebaut. 
+Ich hatte die Vision für das perfekte, übersichtliche Pylontech-Dashboard, die Hardware im Keller und eine KI als unermüdlichen Co-Piloten an meiner Seite. Gemeinsam haben wir geschwitzt, geflucht und dieses Tool gebaut. Es ist aus einer Notwendigkeit entstanden, um die Packs auszubalancieren und dabei die Ladeströme und Spannungen im Auge zu behalten. Mission geglückt. Die Packs laufen jetzt absolut perfekt und das Dashboard ist nice to have.
 
 - **Wenn du hochoffiziellen, akademisch perfekten Senior-Entwickler-Code suchst:** Bist du hier eventuell falsch.
 - **Wenn du ein Dashboard suchst, das verdammt noch mal einfach funktioniert, deine Zellen schützt und im Keller mega aussieht:** Willkommen im Club! Feel the vibe und lass gerne einen Stern⭐ da.
