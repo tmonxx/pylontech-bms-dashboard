@@ -22,3 +22,7 @@ Ein schlankes, performantes Python-Skript, das die Zelldaten von bis zu 6 parall
 3. Starte das Skript im Terminal:
    ```bash
    python3 dashboard.py
+
+<img width="2174" height="1321" alt="Bildschirmfoto 2026-06-30 um 16 31 24" src="https://github.com/user-attachments/assets/1c920e4c-ff24-4163-91db-201fbb12c9db" />
+<img width="2172" height="912" alt="Bildschirmfoto 2026-06-30 um 16 34 02" src="https://github.com/user-attachments/assets/fd982c8b-3f48-4954-b571-750d5f7cca84" />
+
