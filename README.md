@@ -1,8 +1,6 @@
-# Pylontech BMS Dashboard
-Live HTML Dashboard für 6x Pylontech US-Serie Akkus über RS485-zu-IP Konverter
-
 # Pylontech BMS 6-Pack Live Dashboard
 
+Live HTML Dashboard für 6x Pylontech US-Serie Akkus über RS485-zu-IP Konverter
 Ein schlankes, performantes Python-Skript, das die Zelldaten von bis zu 6 parallel geschalteten Pylontech LiFePO4-Akkus (US-Serie) ausliest und als interaktives HTML-Dashboard im lokalen Netzwerk bereitstellt.
 
 ## Features
