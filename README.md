@@ -44,3 +44,16 @@ Ein Standard-Linux-Tool, das den seriellen USB-Port (der am Pylontech-Konsolenpo
 Zwei Hintergrund-Dienste sorgen dafür, dass beide Programme nach einem Stromausfall oder Neustart des Servers automatisch im Hintergrund starten:
 - `/etc/systemd/system/ser2net.service` (für das USB-Netzwerk-Gateway)
 - `/etc/systemd/system/pylontech-dashboard.service` (für das Python-Skript)
+
+_____________________________________________________________________
+
+## 🕶️ Über dieses Projekt (Beichte eines Vibe-Coders)
+
+Eine wichtige Sache vorweg: Ich bin kein gelernter Software-Entwickler und habe ehrlicherweise keine tiefere Ahnung von den wilden Regex-Ausdrücken, dem asynchronen Socket-Handling oder den Tiefen der Python-Netzwerkprogrammierung in diesem Skript. 
+
+Ich bin ein stolzer **Vibe-Coder**! 😎
+
+Ich hatte die Vision für das perfekte, übersichtliche Pylontech-Dashboard, die Hardware im Keller und eine KI als unermüdlichen Co-Piloten an meiner Seite. Gemeinsam haben wir geschwitzt, geflucht und dieses Tool gebaut. 
+
+- **Wenn du hochoffiziellen, akademisch perfekten Senior-Entwickler-Code suchst:** Bist du hier eventuell falsch.
+- **Wenn du ein Dashboard suchst, das verdammt noch mal einfach funktioniert, deine Zellen schützt und im Keller mega aussieht:** Willkommen im Club! Feel the vibe und lass gerne einen Stern⭐ da.
