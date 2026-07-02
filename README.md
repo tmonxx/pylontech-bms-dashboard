@@ -11,6 +11,7 @@ Ein schlankes, performantes Python-Skript, das die Zelldaten von bis zu 6 parall
 - **Sicher & Lokal:** Keine Cloud, keine Passwörter, reine lokale Socket-Abfrage.
 
 <img width="2174" height="1321" alt="Bildschirmfoto 2026-06-30 um 16 31 24" src="https://github.com/user-attachments/assets/1c920e4c-ff24-4163-91db-201fbb12c9db" />
+<img width="2168" height="1322" alt="image" src="https://github.com/user-attachments/assets/015b2cdc-99f3-42f8-a48b-f649f060586d" />
 <img width="2172" height="912" alt="Bildschirmfoto 2026-06-30 um 16 34 02" src="https://github.com/user-attachments/assets/fd982c8b-3f48-4954-b571-750d5f7cca84" />
 
 ## Voraussetzungen
